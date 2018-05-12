@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25277'
     url: http://www.gutenberg.org/2009/agents/25277
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22347#Through-Canal-Land-in-a-Canadian-Canoe
 gutenberg_issued: '2007-08-16'
 gutenberg_type: Text
 identifiers:
